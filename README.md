@@ -1,4 +1,4 @@
-# Awesome Green Card Interview
+# Awesome Green Card Interview [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Resources for couples who prepare for a marriage-based green card (adjustment of status) interview at a USCIS field office.
 
@@ -8,9 +8,14 @@ This is a list of useful places for couples who prepare for a marriage-based gre
 
 Ready for My Interview made this list. We also make a practice tool, and four of our own pages are in the interview preparation group. Everything else is from other people. No one paid to be on this list, and there are no affiliate links. Entries that charge money say "paid". This list is not legal advice. It cannot tell you which form to file, what your officer will ask, or what USCIS will decide.
 
+Start with the official pages. USCIS forms, fees, and rules change, and the USCIS page is the one that counts. Read the instructions for each form you file, and read your interview notice from start to end. A summary on another site, including this one, can be out of date.
+
+Use the other groups for the work around the forms. Legal help is for questions about your own case. Document help is for records that you must order or translate. Forums show what other couples saw, but one story is not a rule. Filing tools help you fill in forms for a fee. Interview preparation is for the weeks before the appointment.
+
+Keep your private numbers private. Do not post your A-number, receipt number, passport number, or home address in a forum or in a public comment. If a site asks for money to "guarantee" a result or to "speed up" a case, stop and read the USCIS page on scams first.
+
 ## Contents
 
-- [How should you use this list?](#how-should-you-use-this-list)
 - [Official USCIS pages](#official-uscis-pages)
 - [Free and low-cost legal help](#free-and-low-cost-legal-help)
 - [Documents and translations](#documents-and-translations)
@@ -18,14 +23,6 @@ Ready for My Interview made this list. We also make a practice tool, and four of
 - [Filing tools](#filing-tools)
 - [Interview preparation](#interview-preparation)
 - [After the interview](#after-the-interview)
-
-## How should you use this list?
-
-Start with the official pages. USCIS forms, fees, and rules change, and the USCIS page is the one that counts. Read the instructions for each form you file, and read your interview notice from start to end. A summary on another site, including this one, can be out of date.
-
-Use the other groups for the work around the forms. Legal help is for questions about your own case. Document help is for records that you must order or translate. Forums show what other couples saw, but one story is not a rule. Filing tools help you fill in forms for a fee. Interview preparation is for the weeks before the appointment.
-
-Keep your private numbers private. Do not post your A-number, receipt number, passport number, or home address in a forum or in a public comment. If a site asks for money to "guarantee" a result or to "speed up" a case, stop and read the USCIS page on scams first.
 
 ## Official USCIS pages
 
