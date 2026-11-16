@@ -4,13 +4,11 @@
 
 The maintained copy of this list is at [readyformyinterview.com/resources](https://readyformyinterview.com/resources). This README is generated from it.
 
-This is a list of useful places for couples who prepare for a marriage-based green card interview at a USCIS field office. It covers the official pages, free and paid legal help, documents and translations, forums, filing tools, and interview preparation. Each entry says what the resource is good for. We last checked every link on November 15, 2026.
+This is a list of resources for couples who prepare for a marriage-based green card interview at a USCIS field office. We last checked every link on November 15, 2026.
 
 Ready for My Interview made this list. We also make a practice tool, and four of our own pages are in the interview preparation group. Everything else is from other people. No one paid to be on this list, and there are no affiliate links. Entries that charge money say "paid". This list is not legal advice. It cannot tell you which form to file, what your officer will ask, or what USCIS will decide.
 
 Start with the official pages. USCIS forms, fees, and rules change, and the USCIS page is the one that counts. Read the instructions for each form you file, and read your interview notice from start to end. A summary on another site, including this one, can be out of date.
-
-Use the other groups for the work around the forms. Legal help is for questions about your own case. Document help is for records that you must order or translate. Forums show what other couples saw, but one story is not a rule. Filing tools help you fill in forms for a fee. Interview preparation is for the weeks before the appointment.
 
 Keep your private numbers private. Do not post your A-number, receipt number, passport number, or home address in a forum or in a public comment. If a site asks for money to "guarantee" a result or to "speed up" a case, stop and read the USCIS page on scams first.
 
@@ -40,7 +38,7 @@ These pages come from U.S. Citizenship and Immigration Services. They are free. 
 - [Fee calculator](https://www.uscis.gov/feecalculator) - Answers a few questions and shows the fee for one form. Use it to check a total before you write a check or pay online.
 - [File online](https://www.uscis.gov/file-online) - Shows which forms you can file online and how to start. Online filing gives you notices in your account.
 - [USCIS online account](https://my.uscis.gov/) - Where you file online, read notices, and see case updates. Both spouses can have their own account.
-- [Processing times](https://egov.uscis.gov/processing-times/) - The time USCIS takes for most cases of a form type at each office. It is a range, not a promise for your case.
+- [Processing times](https://egov.uscis.gov/processing-times/) - The time USCIS takes for most cases of a form type at each office. Your case can take more or less time.
 - [Case status online](https://egov.uscis.gov/) - Type a receipt number to see the last action on a case. Use it to check that a notice is real.
 - [Field office locator](https://www.uscis.gov/about-us/find-a-uscis-office/field-offices) - Find the USCIS field office that serves your address. Your interview notice names the office, so check the address there too.
 - [Change of address](https://www.uscis.gov/addresschange) - Report a new address to USCIS. A notice sent to an old address can cost you an appointment.
@@ -52,7 +50,7 @@ These pages come from U.S. Citizenship and Immigration Services. They are free. 
 
 ## Free and low-cost legal help
 
-Only a lawyer or a DOJ-accredited representative at a recognized organization can give you legal advice about your case. A notario, a form preparer, or a friend cannot. These directories help you find real help. Many nonprofits charge a low fee or nothing.
+Only a lawyer or a DOJ-accredited representative at a recognized organization can give you legal advice about your case. A notario, a form preparer, or a friend cannot. Many nonprofits charge a low fee or nothing.
 
 - [USCIS: find legal services](https://www.uscis.gov/scams-fraud-and-misconduct/avoid-scams/legal-services) - How to tell a lawyer or accredited representative from someone who is not allowed to give legal advice, and where to look for free help.
 - [DOJ recognized organizations and accredited representatives](https://www.justice.gov/eoir/recognition-accreditation-roster-reports) - The Justice Department rosters of nonprofits it recognizes and the accredited representatives who give immigration legal help through them, by state and city.
@@ -79,7 +77,7 @@ Bring originals of the documents you sent copies of, unless your notice says som
 
 ## Forums and communities
 
-Forums are good for one question: what did other couples see? They are not good for legal questions about your case. Offices differ, and officers differ. A post from two years ago may describe a rule that has changed. Before you post, remove names, dates of birth, and every case number.
+Forums show what other couples saw at their interviews. They cannot answer legal questions about your case, and another couple's office or officer may work in a different way. A post from two years ago may describe a rule that has changed. Before you post, remove names, dates of birth, and every case number.
 
 - [r/immigration](https://www.reddit.com/r/immigration/) - A large Reddit community for U.S. immigration questions. Read its rules before you post. It does not allow advertising.
 - [r/USCIS](https://www.reddit.com/r/USCIS/) - A Reddit community for USCIS process questions, such as notices, biometrics, and interview scheduling.
@@ -95,11 +93,11 @@ These companies help you prepare the forms for a fee. They are not USCIS. Check 
 
 ## Interview preparation
 
-The interview is a conversation about your forms and your life together. The officer may check facts on your forms and ask about your relationship. These resources explain how the interview works and help you practice your own answers. Do not memorize a script.
+The interview is a conversation about your forms and your life together. The officer may check facts on your forms and ask about your relationship. Do not memorize a script.
 
 - [USCIS Policy Manual: interview guidelines](https://www.uscis.gov/policy-manual/volume-7-part-a-chapter-5) - The official chapter on adjustment interviews. It covers who must appear, interpreters, and what the officer reviews.
 - [USCIS Policy Manual: spouses](https://www.uscis.gov/policy-manual/volume-6-part-b-chapter-6) - How USCIS looks at a marriage-based petition, including what a bona fide marriage means.
-- [Form G-1256](https://www.uscis.gov/g-1256) - The interpreter declaration. Read it before the interview if you bring an interpreter. You sign it in front of the officer, not before.
+- [Form G-1256](https://www.uscis.gov/g-1256) - The interpreter declaration. Read it before the interview if you bring an interpreter. Sign it at the interview, in front of the officer.
 - [CitizenPath: green card interview questions](https://citizenpath.com/green-card-interview-questions/) - A free article with common questions by topic and a practice plan.
 - [Boundless: preparing for the marriage green card interview](https://www.boundless.com/immigration-resources/preparing-for-the-marriage-green-card-interview) - A free article on what to expect, what to bring, and how to get ready together.
 - [Printable interview checklist](https://readyformyinterview.com/green-card-interview-checklist) - Our one-sheet list of documents to bring and questions to practice. It is free, and it needs no email.
@@ -107,11 +105,11 @@ The interview is a conversation about your forms and your life together. The off
 - [USCIS field offices](https://readyformyinterview.com/field-offices/) - Our list of every field office with its address and the areas it serves.
 - [Stokes interview guide](https://readyformyinterview.com/stokes-interview) - Our guide to separate questioning of spouses, and how to prepare honestly together and apart.
 
-A good way to use these resources: read the official chapter once, then pick one topic, such as how you met. Each spouse answers out loud, alone, from memory. Then check the facts against your records. Repeat for the next topic. Answers do not need to match word for word. Two people remember one day in different ways.
+One way to practice: read the official chapter once, then pick one topic, such as how you met. Each spouse answers out loud, alone, from memory. Then check the facts against your records. Repeat for the next topic. Answers do not need to match word for word. Two people remember one day in different ways.
 
 ## After the interview
 
-- [Conditional permanent residence](https://www.uscis.gov/green-card/after-we-grant-your-green-card/conditional-permanent-residence) - If you were married less than two years when you got your green card, it is conditional. This page explains what that means.
+- [Conditional permanent residence](https://www.uscis.gov/green-card/after-we-grant-your-green-card/conditional-permanent-residence) - If you had been married less than two years on the day you became a resident, your green card is conditional and lasts two years.
 - [Form I-751](https://www.uscis.gov/i-751) - The petition to remove conditions. Read it early, so you know which joint records to keep over the next two years.
 
 ## Contributing
